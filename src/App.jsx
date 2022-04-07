@@ -7,6 +7,7 @@ import Sponsership from "./components/Sponsership";
 import Header from "./components/Header";
 import Main from "./components/Main";
 import BecomeSpnser from "./components/BecomeSpnser";
+import Invities from "./components/Invities";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <BecomeSpnser />
       <TimeLine />
       <ContactPage />
+      <Invities />
       <Sponsership />
     </div>
   );

@@ -55,6 +55,9 @@ const Main = () => {
               {/* <img src={text1} alt="" /> */}
 
               <h2 class="max-w-lg lg:max-w-md 2xl:max-w-none mt-7 mb-12 mb:mb-20 text-6xl lg:text-6xl 2xl:text-9xl text-white font-bold font-heading">
+                {/* <div className="relative group">
+                  <div class="absolute -inset-0.5 bg-gradient-to-r from-pink-600 to-purple-600 rounded-lg blur opacity-75 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt"></div>
+                </div> */}
                 "The best play is enlightened when performed on the best stage."
               </h2>
               <p class="mb-12 lg:mb-24 text-lg text-white opacity-90">
@@ -171,25 +174,7 @@ const Main = () => {
                 </li>
               </ul>
             </div>
-            <div class="mt-auto px-10">
-              <div class="pt-6">
-                <a
-                  class="block mb-4 py-4 px-12 text-gray-800 text-center font-bold border border-gray-50 hover:border-gray-100 rounded-full"
-                  href="#"
-                >
-                  Sign in
-                </a>
-                <a
-                  class="block py-4 px-12 text-white text-center font-bold bg-blue-500 hover:bg-blue-600 rounded-full transition duration-200"
-                  href="#"
-                >
-                  Sign up
-                </a>
-              </div>
-              <p class="mt-6 mb-4 text-lg text-center">
-                <span>2021 © Zospace. All rights reserved.</span>
-              </p>
-            </div>
+            <div class="mt-auto px-10"></div>
           </nav>
         </div>
       </section>

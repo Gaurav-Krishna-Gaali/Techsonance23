@@ -3,34 +3,17 @@ import React from "react";
 const Invities = () => {
   return (
     <div>
-      <link
-        rel="stylesheet"
-        href="https://cdn.materialdesignicons.com/6.5.95/css/materialdesignicons.min.css"
-      />
-
-      <div class="flex items-center justify-center min-h-screen bg-white py-48">
+      <div class="flex items-center justify-center min-h-screen bg-black pb-20 ">
         <div class="flex flex-col">
-          <span class="text-center font-bold my-10 opacity-30">
-            MDI (npm i @mdi/font) reuqired for all icons
-            <hr class="my-4" />
-            <a
-              href="https://egoistdeveloper.github.io/twcss-to-sass-playground/"
-              target="_blank"
-              class="text-blue-600"
-            >
-              Convetert to SASS
-            </a>
-          </span>
-
           <div class="flex flex-col mt-8">
             <div class="container max-w-7xl px-4">
               <div class="flex flex-wrap justify-center text-center mb-24">
                 <div class="w-full lg:w-6/12 px-4">
-                  <h1 class="text-gray-900 text-4xl font-bold mb-8">
+                  <h1 class="text-white text-4xl font-bold mb-8">
                     Meet the Team
                   </h1>
 
-                  <p class="text-gray-700 text-lg font-light">
+                  <p class="text-white text-lg font-light">
                     With over 100 years of combined experience, we've got a
                     well-seasoned team at the helm.
                   </p>
@@ -48,35 +31,18 @@ const Invities = () => {
                     </a>
 
                     <div class="text-center mt-6">
-                      <h1 class="text-gray-900 text-xl font-bold mb-1">
+                      <h1 class="text-white text-xl font-bold mb-1">
                         Tranter Jaskulski
                       </h1>
 
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-white font-light mb-2">
                         Founder & Specialist
                       </div>
 
                       <div
                         class="flex items-center justify-center opacity-50 hover:opacity-100
                                   transition-opacity duration-300"
-                      >
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-indigo-50 h-10 w-10"
-                        >
-                          <i class="mdi mdi-linkedin text-indigo-500 mx-auto mt-2"></i>
-                        </a>
-
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-blue-50 h-10 w-10"
-                        ></a>
-
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-orange-50 h-10 w-10"
-                        ></a>
-                      </div>
+                      ></div>
                     </div>
                   </div>
                 </div>
@@ -91,35 +57,18 @@ const Invities = () => {
                     </a>
 
                     <div class="text-center mt-6">
-                      <h1 class="text-gray-900 text-xl font-bold mb-1">
+                      <h1 class="text-white text-xl font-bold mb-1">
                         Denice Jagna
                       </h1>
 
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-white font-light mb-2">
                         Tired & M. Specialist
                       </div>
 
                       <div
                         class="flex items-center justify-center opacity-50 hover:opacity-100
                                   transition-opacity duration-300"
-                      >
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-indigo-50 h-10 w-10"
-                        >
-                          <i class="mdi mdi-linkedin text-indigo-700 mx-auto mt-2"></i>
-                        </a>
-
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-blue-50 h-10 w-10"
-                        ></a>
-
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-orange-50 h-10 w-10"
-                        ></a>
-                      </div>
+                      ></div>
                     </div>
                   </div>
                 </div>
@@ -134,35 +83,16 @@ const Invities = () => {
                     </a>
 
                     <div class="text-center mt-6">
-                      <h1 class="text-gray-900 text-xl font-bold mb-1">
+                      <h1 class="text-white text-xl font-bold mb-1">
                         Kenji Milton
                       </h1>
 
-                      <div class="text-gray-700 font-light mb-2">
-                        Team Memeber
-                      </div>
+                      <div class="text-white font-light mb-2">Team Memeber</div>
 
                       <div
                         class="flex items-center justify-center opacity-50 hover:opacity-100
                                   transition-opacity duration-300"
-                      >
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-indigo-50 h-10 w-10"
-                        >
-                          <i class="mdi mdi-linkedin text-indigo-700 mx-auto mt-2"></i>
-                        </a>
-
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-blue-50 h-10 w-10"
-                        ></a>
-
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-orange-50 h-10 w-10"
-                        ></a>
-                      </div>
+                      ></div>
                     </div>
                   </div>
                 </div>
@@ -177,35 +107,18 @@ const Invities = () => {
                     </a>
 
                     <div class="text-center mt-6">
-                      <h1 class="text-gray-900 text-xl font-bold mb-1">
+                      <h1 class="text-white text-xl font-bold mb-1">
                         Doesn't matter
                       </h1>
 
-                      <div class="text-gray-700 font-light mb-2">
+                      <div class="text-white font-light mb-2">
                         Will be fired
                       </div>
 
                       <div
                         class="flex items-center justify-center opacity-50 hover:opacity-100
                                   transition-opacity duration-300"
-                      >
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-indigo-50 h-10 w-10"
-                        >
-                          <i class="mdi mdi-linkedin text-indigo-700 mx-auto mt-2"></i>
-                        </a>
-
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-blue-50 h-10 w-10"
-                        ></a>
-
-                        <a
-                          href="#"
-                          class="flex rounded-full hover:bg-orange-50 h-10 w-10"
-                        ></a>
-                      </div>
+                      ></div>
                     </div>
                   </div>
                 </div>
