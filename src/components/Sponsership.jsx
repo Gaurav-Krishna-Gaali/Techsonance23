@@ -19,11 +19,11 @@ import prev from "../assets/prev.png";
 const sponsership = () => {
   return (
     <div className="">
-      <div className="flex items-center justify-center">
-        <img src={prev} alt="" className=" m-8" />
+      <div className="flex items-center justify-center ml-6 mr-6">
+        <img src={prev} alt="Prev_sponsors" className=" m-8 " />
       </div>
       <div className="">
-        <Marquee speed={180}>
+        <Marquee speed={120}>
           <div className="mr-30px ml-30px">
             <img src={img1} className="w-[80%]" alt="" />
           </div>
@@ -47,7 +47,7 @@ const sponsership = () => {
           </div>
         </Marquee>
       </div>
-      <Marquee speed={180} className="mt-10 pb-5" direction="right">
+      <Marquee speed={120} className="mt-10 pb-5 " direction="right">
         <div className="mr-30px ml-30px">
           <img src={img8} className="w-[80%]" alt="" />
         </div>
@@ -58,7 +58,7 @@ const sponsership = () => {
           <img src={img10} className="w-[80%]" alt="" />
         </div>
         <div className="mr-30px ml-30px">
-          <img src={img11} className="w-[80%]" alt="" />
+          <img src={img11} className="w-[80%] " alt="" />
         </div>
         <div className="mr-30px ml-30px">
           <img src={img12} className="w-[80%]" alt="" />

@@ -9,8 +9,8 @@ const ContactPage = () => {
           <div class="flex flex-col w-full lg:w-2/5 p-8">
             <p
               /* class="text-3xl md:text-5xl text-blue-500 my-4 leading-relaxed md:leading-snug" */
-              class="text-5xl pb-10  bg-gradient-to-r from-indigo-500 via-purple-500
-              text-transparent bg-clip-text to-pink-500 font-solid
+              class="text-5xl bold pb-10  bg-gradient-to-r from-indigo-500 via-purple-500
+              text-transparent bg-clip-text to-pink-500 font-bold
               cursor-pointer"
             >
               Contact our team

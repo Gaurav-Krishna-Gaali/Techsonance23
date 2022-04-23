@@ -118,7 +118,7 @@ const Invities = () => {
 
                     <div class="text-center mt-6">
                       <h1 class="text-white text-xl font-bold mb-1">
-                        manny DIRECTOR'S
+                        Many Such Director's
                       </h1>
 
                       <div class="text-white font-light mb-2">

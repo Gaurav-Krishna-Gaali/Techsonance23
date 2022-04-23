@@ -7,10 +7,11 @@ const BecomeSpnser = () => {
         <div class="container mx-auto px-4">
           <div class="mb-16 md:mb-24 text-center">
             <h2 class="mb-8 md:mb-14 text-5xl lg:text-6xl 2xl:text-7xl text-white font-bold font-heading">
-              Sponser us
+              Sponsor Techsonance 2022
             </h2>
             <p class="text-lg text-gray-200">
-              Connect to the number given below to get a clear understanding
+              Confused? Let us help you get a good understanding.. Contact us at
+              details given below.
             </p>
           </div>
           <div class="max-w-6xl mx-auto">

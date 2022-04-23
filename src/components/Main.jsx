@@ -2,12 +2,14 @@ import React from "react";
 import logo from "../assets/logo.png";
 import text from "../assets/text.gif";
 import text1 from "../assets/text1.gif";
+import Banner from "../Banner";
+import BannerIntro from "./BannerIntro";
 
 const Main = () => {
   return (
     <div>
-      <section class="relative pb-20 bg-black overflow-hidden">
-        <div class="absolute bottom-0 inset-x-0 h-full bg-gradient-zospace-1"></div>
+      <div class="relative pb-20 bg-black overflow-hidden">
+        {/* <div class="absolute bottom-0 inset-x-0 h-full bg-gradient-zospace-1"></div> */}
         <div class="absolute bottom-0 inset-x-0 h-3/5 w-2full -ml-64 -mb-12 bg-gradient-zospace-2 transform -rotate-6"></div>
         <nav class="relative">
           <div class="flex py-8 px-4 lg:px-8 justify-between items-center">
@@ -44,6 +46,8 @@ const Main = () => {
             <div class="hidden lg:block"></div>
           </div>
         </nav>
+        <Banner />
+        {/* <BannerIntro /> */}
         <div class="relative container px-4 pt-12 md:pt-20 mx-auto">
           <div class="hidden 2xl:block absolute bottom-0 w-3/5 mb-40 h-2 border-b border-white"></div>
           <div class="relative flex flex-wrap -mx-4">
@@ -61,12 +65,13 @@ const Main = () => {
                 "The best play is enlightened when performed on the best stage."
               </h2>
               <p class="mb-12 lg:mb-24 text-lg text-white opacity-90">
-                Here arrives a promising stage to enhance your originality
+                {/* Here arrives a promising stage to enhance your originality */}
+                --Techsonance 2022, EEE Department, Osmania University
               </p>
               <div class="flex flex-wrap items-center">
                 <a
                   class="inline-block mr-14 px-12 py-5 text-lg text-white font-bold bg-blue-500 hover:bg-blue-600 rounded-full transition duration-200"
-                  href="#"
+                  href="/events"
                 >
                   Events
                 </a>
@@ -177,7 +182,7 @@ const Main = () => {
             <div class="mt-auto px-10"></div>
           </nav>
         </div>
-      </section>
+      </div>
     </div>
   );
 };
