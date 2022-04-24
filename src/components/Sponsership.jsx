@@ -10,7 +10,7 @@ import img7 from "../assets/sponsers/sealwell.png";
 import img8 from "../assets/sponsers/singneri.png";
 import img9 from "../assets/sponsers/solar.png";
 import img10 from "../assets/sponsers/sp.png";
-import img11 from "../assets/sponsers/spearon.png";
+import img11 from "../assets/sponsers/spearon.jpeg";
 import img12 from "../assets/sponsers/transco.png";
 import img13 from "../assets/sponsers/transcon.png";
 import img14 from "../assets/sponsers/tsgenco.png";
