@@ -21,7 +21,7 @@ const TimeLine = () => {
               the steps to know the exact process of the fest.
             </p>
             <a
-            target="_blank"
+              // target="_blank"
               href="https://www.instagram.com/techsonanceuceou/"
               className="bg-transparent mr-auto hover:bg-blue-300 text-blue-300 hover:text-white rounded shadow hover:shadow-lg py-2 px-4 border border-blue-300 hover:border-transparent"
             >
