@@ -17,7 +17,7 @@ import org from "../assets/non-tech/org.png";
 
 const Events = () => {
   return (
-    <div className="bg-black p-5  flex justify-center items-center flex-col">
+    <div className="bg-black p-5 pb-20 flex justify-center items-center flex-col">
       <h1 className="text-center font-bold text-4xl text-white p-10">
         TECHSONANCE 2022 EXCLUSIVE EVENTS🏫🎓
         <h2 className="text-white text-2xl">
