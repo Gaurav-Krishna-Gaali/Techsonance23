@@ -7,7 +7,7 @@ import board from "../assets/board.jpg";
 const Invities = () => {
   return (
     <div>
-      <div class="flex items-center justify-center min-h-screen bg-black pb-20 ">
+      <div class="flex items-center justify-center  min-h-screen bg-black pb-20 ">
         <div class="flex flex-col">
           <div class="flex flex-col mt-8">
             <div class="container max-w-7xl px-4">

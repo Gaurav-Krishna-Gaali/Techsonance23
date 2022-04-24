@@ -7,6 +7,7 @@ import identikit from "../assets/tech/identikit.png";
 import invent from "../assets/tech/inventex.png";
 import pano from "../assets/tech/panopoly.png";
 import paper from "../assets/tech/paper.png";
+import code from "../assets/tech/code.png";
 // NON_TECH
 import art from "../assets/non-tech/art.png";
 import capture from "../assets/non-tech/capture.png";
@@ -75,7 +76,18 @@ const Events = () => {
       <h2 className="text-center font-bold text-4xl text-white mt-10 -m-10">
         TECHNICAL EVENTS🧑‍💻👩‍💻
       </h2>
-      <div className="lg:w-[80%] md:flex-col mt-10 p-10  lg:grid md:gap-col-2 flex flex-col  justify-center items-center grid-rows-3 grid-flow-col gap-8">
+      <div className="lg:w-[80%] md:flex-col mt-10 p-10  lg:grid md:gap-col-2  flex flex-col  justify-center items-center grid-rows-4 grid-flow-col gap-8">
+        <img
+          src={code}
+          alt=" "
+          className="shadow-cyan-500/80 shadow-lg border-2 border-white "
+          onClick={() =>
+            window.open(
+              "https://docs.google.com/forms/d/e/1FAIpQLSf0rd6qe59IZmtVtJeYdUhmNZFskR-ahkvz31aEW63U5kgprg/viewform",
+              "_blank"
+            )
+          }
+        />
         <img
           src={biz}
           alt=" "
@@ -133,16 +145,24 @@ const Events = () => {
             window.open("https://forms.gle/rCTF2JzxtzZ5S6VR6", "_blank")
           }
         />
+        <img
+          src={paper}
+          alt=""
+          className="shadow-cyan-500/80 shadow-lg border-2 border-white "
+          onClick={() =>
+            window.open("https://forms.gle/DBF1ZGHu6BMADYGt8", "_blank")
+          }
+        />
       </div>
 
-      <img
+      {/* <img
         src={paper}
         alt=""
         className="  shadow-cyan-500/80 shadow-lg border-2 border-white mb-[100px] lg:w-2/5 "
         onClick={() =>
           window.open("https://forms.gle/DBF1ZGHu6BMADYGt8", "_blank")
         }
-      />
+      /> */}
     </div>
   );
 };
