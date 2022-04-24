@@ -43,7 +43,7 @@ const Main = () => {
                 />
               </a>
             </div>
-            <div class="hidden lg:block"></div>
+            <div class="hidden lg:block "></div>
           </div>
         </nav>
         <Banner />
@@ -122,7 +122,7 @@ const Main = () => {
                 </div>
               </div>
             </div>
-            <div class="w-full lg:w-1/2 2xl:w-3/5 px-4">
+            <div class="w-full lg:w-1/2 lg:pl-20 2xl:w-3/5 px-4">
               <img class="w-full h-full object-contain" src={logo} alt="" />
             </div>
           </div>

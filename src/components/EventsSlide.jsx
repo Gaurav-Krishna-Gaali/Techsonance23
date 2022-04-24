@@ -1,11 +1,4 @@
 import React from "react";
-import Marquee from "react-fast-marquee";
-import art from "../assets/non-tech/art.png";
-import capture from "../assets/non-tech/capture.png";
-import chessy from "../assets/non-tech/chessy.png";
-import meme from "../assets/non-tech/meme.png";
-import org from "../assets/non-tech/org.png";
-// import org from "../assets/non-tech/org.png";
 import nontech from "../assets/non-tech/nontech.png";
 import tech from "../assets/tech/tech.png";
 

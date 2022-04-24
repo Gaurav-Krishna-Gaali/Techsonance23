@@ -64,7 +64,7 @@ const Invities = () => {
 
                     <div class="text-center mt-6">
                       <h1 class="text-white text-xl font-bold mb-1">
-                        Shri.D. PRABHAKR RAO
+                        Shri.D. PRABHAKAR RAO
                       </h1>
 
                       <div class="text-white font-light mb-2">

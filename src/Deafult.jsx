@@ -8,11 +8,13 @@ import BecomeSpnser from "./components/BecomeSpnser";
 import Invities from "./components/Invities";
 import EventsSlide from "./components/EventsSlide";
 import Modal from "./components/Modal";
+import Guests from "./components/Guests";
 
 const Deafult = () => {
   return (
     <div className="App">
       <Main />
+      <Guests />
       <EventsSlide />
       <BecomeSpnser />
       <TimeLine />
