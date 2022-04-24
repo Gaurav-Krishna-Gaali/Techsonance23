@@ -6,7 +6,7 @@ const Guests = () => {
   return (
     <div className="bg-black">
       <h2 class="text-white font-bold text-center text-5xl">
-        Platinum Sponsors 🤩🤩
+        ✨Platinum Sponsors ✨
       </h2>
       <h2 class="text-white font-bold text-center pt-5 text-xl">
         Click on the logo to go to the official site

@@ -82,10 +82,7 @@ const Events = () => {
           alt=" "
           className="shadow-cyan-500/80 shadow-lg border-2 border-white "
           onClick={() =>
-            window.open(
-              "https://docs.google.com/forms/d/e/1FAIpQLSf0rd6qe59IZmtVtJeYdUhmNZFskR-ahkvz31aEW63U5kgprg/viewform",
-              "_blank"
-            )
+            window.open("https://forms.gle/mY5zUS9GmsYfQDHx9", "_blank")
           }
         />
         <img
