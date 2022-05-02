@@ -3,11 +3,17 @@ import "./Try.css";
 import SBI from "../assets/imp/logo.png";
 import redco from "../assets/imp/tsredco.png";
 import tt1 from "../assets/imp/tt1.png";
+import singneri from "../assets/imp/singerni.jpg";
+import npdcl from "../assets/imp/npdcl.png";
+import south from "../assets/imp/south.png";
+import ntpc from "../assets/imp/ntpc.png";
+import Sponserslist from "./Sponserslist";
+import Silver from "./Silver";
 
 const Guests = () => {
   return (
     <div className="bg-black">
-      <h2 class="text-white font-bold text-center text-5xl">
+      <h2 class="text-transparent font-bold bg-clip-text bg-gradient-to-br from-gray-200 to-gray-600 font-bold text-center text-5xl">
         Platinum Sponsors
       </h2>
       <h2 class="text-white font-bold text-center pt-5 text-xl">
@@ -43,6 +49,17 @@ const Guests = () => {
           </div>
           <div class="card_title text-xl title-white hover:text-blue-700 "></div>
         </div>
+        <div class="card 5">
+          <div
+            class="card_image"
+            onClick={() =>
+              window.open("https://scclmines.com/scclnew/index.asp", "_blank")
+            }
+          >
+            <img src={singneri} className="p-10" alt="SBI" />
+          </div>
+          <div class="card_title text-xl title-white hover:text-blue-700 "></div>
+        </div>
         <div class="card 3">
           <div
             class="card_image"
@@ -69,40 +86,27 @@ const Guests = () => {
             {/* <p className="text-xl pt-20 hover:text-blue-700 underline">SBI</p> */}
           </div>
         </div>
-        {/* <div class="card 5">
+
+        <div class="card 6">
           <div
             class="card_image"
-            onClick={() =>
-              window.open("https://telanganatourism.gov.in/", "_blank")
-            }
+            onClick={() => window.open("https://tsnpdcl.in/", "_blank")}
           >
-            <img src={tt1} className="p-10" alt="SBI" />
-          </div>
-          <div class="card_title text-xl title-white hover:text-blue-700 ">
-          </div>
-        </div> */}
-        {/* <div class="card 6">
-          <div
-            class="card_image"
-            onClick={() =>
-              window.open("https://telanganatourism.gov.in/", "_blank")
-            }
-          >
-            <img src={tt1} className="p-10" alt="SBI" />
+            <img src={npdcl} className="p-10" alt="SBI" />
           </div>
           <div class="card_title text-xl title-white hover:text-blue-700 "></div>
-        </div> */}
-        {/* <div class="card 7">
+        </div>
+        <div class="card 7">
           <div
             class="card_image"
             onClick={() =>
-              window.open("https://telanganatourism.gov.in/", "_blank")
+              window.open("https://www.tssouthernpower.com/", "_blank")
             }
           >
-            <img src={tt1} className="p-10" alt="SBI" />
+            <img src={south} className="p-10" alt="SBI" />
           </div>
           <div class="card_title text-xl title-white hover:text-blue-700 "></div>
-        </div> */}
+        </div>
 
         {/* <div class="card 4">
         <div class="card_image">
@@ -113,6 +117,8 @@ const Guests = () => {
         </div>
       </div> */}
       </div>
+      <Sponserslist />
+      <Silver />
     </div>
   );
 };
