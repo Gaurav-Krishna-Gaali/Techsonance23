@@ -47,6 +47,7 @@ const Main = () => {
           </div>
         </nav>
         <Banner />
+        <h1 class="text-white">Hello Techsonance 2023</h1>
         {/* <BannerIntro /> */}
         <div class="relative container px-4 pt-12 md:pt-20 mx-auto">
           <div class="hidden 2xl:block absolute bottom-0 w-3/5 mb-40 h-2 border-b border-white"></div>
