@@ -7,7 +7,7 @@ const BecomeSpnser = () => {
         <div class="container mx-auto px-4">
           <div class="mb-16 md:mb-24 text-center">
             <h2 class="mb-8 md:mb-14 text-5xl lg:text-6xl 2xl:text-7xl text-white font-bold font-heading">
-              Sponsor Techsonance 2022
+              Sponsor Techsonance 2023
             </h2>
             <p class="text-lg text-gray-200">
               Confused? Let us help you get a good understanding.. Contact us at
@@ -23,7 +23,7 @@ const BecomeSpnser = () => {
                       <h3 class="text-4xl text-white font-bold font-heading">
                         Gold
                       </h3>
-                      <p class="text-lg text-white font-bold">₹75,000</p>
+                      <p class="text-lg text-white font-bold">₹ 1,00,000</p>
                     </div>
                   </div>
                   <ul class="text-lg text-white mb-16">
@@ -63,8 +63,7 @@ const BecomeSpnser = () => {
                         </svg>
                       </span>
                       <span>
-                        A direct link to the home page of the company on the
-                        website
+                        The Company will be the CO-SPONSOR of the fest.
                       </span>
                     </li>
                     <li class="flex items-center">
@@ -83,7 +82,8 @@ const BecomeSpnser = () => {
                         </svg>
                       </span>
                       <span>
-                        The company logo on T-shirts and Banners on campus
+                        Company name and logo will be printed on T-shirts and
+                        posters on campus.
                       </span>
                     </li>
                   </ul>
@@ -95,8 +95,8 @@ const BecomeSpnser = () => {
                     <div class="flex justify-between items-center px-3">
                       <h3 class="text-4xl text-white font-bold font-heading">
                         Platinum
-                      </h3>
-                      <p class="text-lg text-white font-bold">₹1,00,000</p>
+                      </h3>{" "}
+                      <p class="text-lg text-white font-bold">₹ 2,00,000</p>
                     </div>
                   </div>
                   <ul class="text-lg text-white mb-16">
@@ -116,7 +116,7 @@ const BecomeSpnser = () => {
                         />
                       </svg>
                       <span className="ml-2 font-bold">
-                        Everything Under Silver & Gold
+                        Everything Under Gold
                       </span>
                     </li>
                     <li class="flex items-center mb-8">
@@ -135,8 +135,7 @@ const BecomeSpnser = () => {
                         </svg>
                       </span>
                       <span>
-                        Company name and logo will be displayed on the ID cards
-                        and other accessories of the delegates
+                        The Company will be the TITLE SPONSOR of the fest.
                       </span>
                     </li>
                     <li class="flex items-center mb-8">
@@ -155,8 +154,8 @@ const BecomeSpnser = () => {
                         </svg>
                       </span>
                       <span>
-                        A promotional video on all social media platforms of
-                        Techsonance 2022 to market the company
+                        Company name will be displayed on the T-shirts, Posters,
+                        ID cards and other accessories of the delegates.
                       </span>
                     </li>
                     <li class="flex items-center mb-8">
@@ -175,8 +174,8 @@ const BecomeSpnser = () => {
                         </svg>
                       </span>
                       <span>
-                        Techsonance 2022 will be pre followed by the name of the
-                        company
+                        A direct link to the home page of the company on the
+                        website.
                       </span>
                     </li>
                   </ul>
@@ -197,7 +196,7 @@ const BecomeSpnser = () => {
                       <h3 class="text-4xl text-white font-bold font-heading">
                         Silver
                       </h3>
-                      <p class="text-lg text-white font-bold">₹50,000</p>
+                      <p class="text-lg text-white font-bold">₹ 75,000</p>
                     </div>
                   </div>
                   <ul class="text-lg text-white mb-16">
@@ -237,7 +236,7 @@ const BecomeSpnser = () => {
                         </svg>
                       </span>
                       <span>
-                        An advertisement on the full page of the souvenir
+                        Time slot for advertisement and stall for the promotion
                       </span>
                     </li>
                     <li class="flex items-center mb-8">
@@ -256,7 +255,7 @@ const BecomeSpnser = () => {
                         </svg>
                       </span>
                       <span>
-                        Time slot for advertisement and stall for the promotion
+                        An advertisement on the full page of the souvenir
                       </span>
                     </li>
                     <li class="flex items-center">
@@ -275,7 +274,7 @@ const BecomeSpnser = () => {
                         </svg>
                       </span>
                       <span>
-                        The company name and the logo displayed and highlighted
+                        Company name and the logo displayed and highlighted
                         during all the events
                       </span>
                     </li>
