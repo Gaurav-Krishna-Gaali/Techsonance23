@@ -60,7 +60,19 @@ const Guests = () => {
           </div>
           <div class="card_title text-xl title-white hover:text-blue-700 "></div>
         </div>
-
+        <div class="card 3">
+          <div
+            class="card_image"
+            onClick={() =>
+              window.open("https://tsredco.telangana.gov.in/", "_blank")
+            }
+          >
+            <img src={redco} className="p-10" alt="SBI" />
+          </div>
+          <div class="card_title text-xl title-white hover:text-blue-700 ">
+            {/* <p className="text-xl pt-20 hover:text-blue-700 underline">SBI</p> */}
+          </div>
+        </div>
         <div class="card 4">
           <div
             class="card_image"
@@ -75,6 +87,15 @@ const Guests = () => {
           </div>
         </div>
 
+        <div class="card 6">
+          <div
+            class="card_image"
+            onClick={() => window.open("https://tsnpdcl.in/", "_blank")}
+          >
+            <img src={npdcl} className="p-10" alt="SBI" />
+          </div>
+          <div class="card_title text-xl title-white hover:text-blue-700 "></div>
+        </div>
         <div class="card 7">
           <div
             class="card_image"

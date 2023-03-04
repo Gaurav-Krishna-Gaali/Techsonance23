@@ -17,7 +17,7 @@ const TimeLine = () => {
               Working Process of Fest
             </p>
             <p className="text-sm md:text-base text-gray-50 mb-4">
-              Here’s your guide to the techsonance 2023 process. Go through all
+              Here’s your guide to the techsonance 2022 process. Go through all
               the steps to know the exact process of the fest.
             </p>
             <a

@@ -7,7 +7,7 @@ const EventsSlide = () => {
   return (
     <div className=" bg-black color-white flex justify-center item-center flex-col">
       <h1 className="md:text-center  text-white text-center font-headingext-white text-4xl mr-5 mb-8 md:mb-14 flex justify-center item-center lg:text-6xl 2xl:text-7xl  font-bold ">
-        Previous Events under Techsonance 2️⃣0️⃣2️⃣2️⃣
+        Events under Techsonance 2️⃣0️⃣2️⃣2️⃣
       </h1>
 
       <div
