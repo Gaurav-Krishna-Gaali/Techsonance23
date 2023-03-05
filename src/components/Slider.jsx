@@ -7,6 +7,7 @@ const Slider = () => {
       class="relative"
       data-te-carousel-init
       data-te-carousel-slide
+      demo
     >
       <div
         class="absolute inset-x-0 bottom-0 z-[2] mx-[15%] mb-4 flex list-none justify-center p-0"
