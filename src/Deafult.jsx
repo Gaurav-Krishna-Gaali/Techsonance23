@@ -9,6 +9,7 @@ import Invities from "./components/Invities";
 import EventsSlide from "./components/EventsSlide";
 import Modal from "./components/Modal";
 import Guests from "./components/Guests";
+import Slider from "./components/Slider";
 
 const Deafult = () => {
   return (

@@ -53,7 +53,11 @@ const Main = () => {
           <div class="relative flex flex-wrap -mx-4">
             <div class="w-full lg:w-1/2 2xl:w-2/5 px-4 mb-12 mb:mb-0">
               <span class="text-xl lg:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-br from-yellow-200 to-orange-600">
-                National Technical Symposium 29 & 30 April, 2022
+                22
+                <sup class="text-lg lg:text-lg  text-transparent bg-clip-text bg-gradient-to-br from-yellow-200 to-orange-600">
+                  nd
+                </sup>{" "}
+                National Technical Symposium
               </span>
               <img src={text} alt="" />
               {/* <img src={text1} alt="" /> */}
@@ -66,7 +70,7 @@ const Main = () => {
               </h2>
               <p class="mb-12 lg:mb-24 text-lg text-white opacity-90">
                 {/* Here arrives a promising stage to enhance your originality */}
-                --Techsonance 2022, EEE Department, Osmania University
+                --Techsonance 2023, EEE Department, Osmania University
               </p>
               <div class="flex flex-wrap items-center">
                 <a
