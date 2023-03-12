@@ -43,11 +43,11 @@ const Banner = () => {
                 </span>
                 <p className="ml-3 font-medium text-white truncate">
                   <span className="md:hidden">
-                    We're are excited to announce Techsonance 2022, Come Join
+                    We're are excited to announce Techsonance 2023, Come Join
                     hands with us..!!🤝🔥🔥
                   </span>
                   <span className="hidden md:inline">
-                    Big news! We're are excited to announce Techsonance 2022,
+                    Big news! We're are excited to announce Techsonance 2023,
                     Come Join hands with us..!!🤝🔥🔥
                   </span>
                 </p>

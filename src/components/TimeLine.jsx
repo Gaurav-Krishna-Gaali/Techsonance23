@@ -22,7 +22,7 @@ const TimeLine = () => {
             </p>
             <a
               // target="_blank"
-              href="https://www.instagram.com/techsonanceuceou/"
+              href="https://www.instagram.com/techsonance_uceou/"
               className="bg-transparent mr-auto hover:bg-blue-300 text-blue-300 hover:text-white rounded shadow hover:shadow-lg py-2 px-4 border border-blue-300 hover:border-transparent"
             >
               Explore Now
@@ -51,15 +51,14 @@ const TimeLine = () => {
                   <div className="order-1 w-5/12" />
                   <div className="order-1 w-5/12 px-1 py-4 text-right">
                     <p className="mb-3 text-base text-blue-300">
-                      1-25 April, 2022
+                      1-10 March, 2023
                     </p>
                     <h4 className="mb-3 font-bold text-lg md:text-2xl">
-                      Registration
+                      Brochure Launch
                     </h4>
                     <p className="text-sm md:text-base leading-snug text-gray-50 text-opacity-100">
-                      Pick your favourite event(s) and register in that event by
-                      filling the form corresponding to that event. Its that
-                      easy :)
+                      The brochure will be launched on 1st March, 2023. The fest
+                      tasks comen soon after the brochure launch.
                     </p>
                   </div>
                 </div>
@@ -67,15 +66,15 @@ const TimeLine = () => {
                   <div className="order-1 w-5/12" />
                   <div className="order-1  w-5/12 px-1 py-4 text-left">
                     <p className="mb-3 text-base text-blue-300">
-                      20-29 April, 2022
+                      10 March - 29 April, 2022
                     </p>
                     <h4 className="mb-3 font-bold text-lg md:text-2xl">
-                      Participation
+                      Sponsership Drive
                     </h4>
                     <p className="text-sm md:text-base leading-snug text-gray-50 text-opacity-100">
-                      Participate online. The links for your registered events
-                      will be sent to you via email and whatsapp groups. Use
-                      those links and show your talent.
+                      The fest will be sponsored by various companies. The
+                      promotional videos and the sessions from the company will
+                      be held.
                     </p>
                   </div>
                 </div>
@@ -83,10 +82,10 @@ const TimeLine = () => {
                   <div className="order-1 w-5/12" />
                   <div className="order-1 w-5/12 px-1 py-4 text-right">
                     <p className="mb-3 text-base text-blue-300">
-                      29 April, 2022
+                      1-31 April, 2022
                     </p>
                     <h4 className="mb-3 font-bold text-lg md:text-2xl">
-                      Result Declaration
+                      Promotions
                     </h4>
                     <p className="text-sm md:text-base leading-snug text-gray-50 text-opacity-100">
                       The ultimate genius will be revealed by our judging panel
@@ -98,14 +97,13 @@ const TimeLine = () => {
                   <div className="order-1 w-5/12" />
                   <div className="order-1  w-5/12 px-1 py-4">
                     <p className="mb-3 text-base text-blue-300">
-                      30 April, 2022
+                      5 & 6 May, 2023
                     </p>
                     <h4 className="mb-3 font-bold  text-lg md:text-2xl text-left">
-                      Prize Distribution
+                      The Mega Fest
                     </h4>
                     <p className="text-sm md:text-base leading-snug text-gray-50 text-opacity-100">
-                      The Prizes for all the event winners will be distributed
-                      by the chief guest in the e-classroom.
+                      Techsonance 2023 will be held on 5th and 6th May, 2023.
                     </p>
                   </div>
                 </div>

@@ -1,12 +1,12 @@
 import React from "react";
 import "./Try.css";
 import SBI from "../assets/imp/logo.png";
-import redco from "../assets/imp/tsredco.png";
 import tt1 from "../assets/imp/tt1.png";
 import singneri from "../assets/imp/singerni.jpg";
-import npdcl from "../assets/imp/npdcl.png";
 import south from "../assets/imp/south.png";
-import ntpc from "../assets/imp/ntpc.png";
+// import npdcl from "../assets/imp/npdcl.png";
+// import redco from "../assets/imp/tsredco.png";
+// import ntpc from "../assets/imp/ntpc.png";
 import Sponserslist from "./Sponserslist";
 import Silver from "./Silver";
 

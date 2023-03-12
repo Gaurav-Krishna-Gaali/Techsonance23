@@ -1,9 +1,12 @@
 import React from "react";
 import logo from "../assets/logo.png";
-import text from "../assets/text.gif";
-import text1 from "../assets/text1.gif";
+// import text from "../assets/text.gif";
 import Banner from "../Banner";
-import BannerIntro from "./BannerIntro";
+// import text from "../assets/animation.gif";
+import text from "../assets/effect.png";
+
+// import text1 from "../assets/text1.gif";
+// import BannerIntro from "./BannerIntro";
 
 const Main = () => {
   return (
@@ -53,13 +56,18 @@ const Main = () => {
           <div class="relative flex flex-wrap -mx-4">
             <div class="w-full lg:w-1/2 2xl:w-2/5 px-4 mb-12 mb:mb-0">
               <span class="text-xl lg:text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-br from-yellow-200 to-orange-600">
-                22
+                23
                 <sup class="text-lg lg:text-lg  text-transparent bg-clip-text bg-gradient-to-br from-yellow-200 to-orange-600">
-                  nd
+                  rd
                 </sup>{" "}
                 National Technical Symposium
               </span>
-              <img src={text} alt="" />
+              <div className="p-5">
+                {/* <h1 className=" font-bold text-5xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600">
+                  TECHSONANCE 2023
+                </h1> */}
+                <img src={text} alt="" className="scale-10" />
+              </div>
               {/* <img src={text1} alt="" /> */}
 
               <h2 class="max-w-lg lg:max-w-md 2xl:max-w-none mt-7 mb-12 mb:mb-20 text-6xl lg:text-6xl 2xl:text-9xl text-white font-bold font-heading">
