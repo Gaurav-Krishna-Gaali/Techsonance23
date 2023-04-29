@@ -66,7 +66,7 @@ const TimeLine = () => {
                   <div className="order-1 w-5/12" />
                   <div className="order-1  w-5/12 px-1 py-4 text-left">
                     <p className="mb-3 text-base text-blue-300">
-                      10 March - 29 April, 2022
+                      10 March - 29 April, 2023
                     </p>
                     <h4 className="mb-3 font-bold text-lg md:text-2xl">
                       Sponsership Drive
@@ -82,14 +82,14 @@ const TimeLine = () => {
                   <div className="order-1 w-5/12" />
                   <div className="order-1 w-5/12 px-1 py-4 text-right">
                     <p className="mb-3 text-base text-blue-300">
-                      1-31 April, 2022
+                      1-31 April, 2023
                     </p>
                     <h4 className="mb-3 font-bold text-lg md:text-2xl">
                       Promotions
                     </h4>
                     <p className="text-sm md:text-base leading-snug text-gray-50 text-opacity-100">
                       The ultimate genius will be revealed by our judging panel
-                      on 29th April, 2022 and the results will be announced.
+                      on 29th April, 2023 and the results will be announced.
                     </p>
                   </div>
                 </div>

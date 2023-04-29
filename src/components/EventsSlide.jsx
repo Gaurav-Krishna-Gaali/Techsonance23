@@ -2,7 +2,7 @@ import React from "react";
 import nontech from "../assets/non-tech/nontech.png";
 import tech from "../assets/tech/tech.png";
 import code from "../assets/tech/code.png";
-
+import capture from "../assets/non-tech/capture.png";
 const EventsSlide = () => {
   return (
     <div className=" bg-black color-white flex justify-center item-center flex-col">
@@ -24,6 +24,21 @@ const EventsSlide = () => {
           alt=""
           className="md:w-[50%] shadow-lg shadow-white/70   "
         />
+      </div>
+      <div className="">
+        <h2 className="text-white text-4xl font-bold text-center mt-20">
+          WORKSHOP 🤖🔧
+        </h2>
+        <div className="flex justify-center item-center">
+          <img
+            src={capture}
+            alt=""
+            className="lg:w-[50%] mt-10 w-[85%] justify-center item-center shadow-lg shadow-blue-700/70"
+            onClick={() =>
+              window.open("https://forms.gle/zyVgn6wXjyihwWG78", "_blank")
+            }
+          />
+        </div>
       </div>
       <div className="">
         <h2 className="text-white text-4xl font-bold text-center mt-20">
